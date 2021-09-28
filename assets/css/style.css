@@ -248,7 +248,7 @@ div.checkbox-field input[type="checkbox"]:checked + label::before {
 /* Header */
 
 .home {
-    background: url('../img/header/bg.jpg') center no-repeat;
+    background: url('../img/header/bg.jpg') center no-repeat, var(--color-darkbeige);
     background-size: cover;
 }
 
